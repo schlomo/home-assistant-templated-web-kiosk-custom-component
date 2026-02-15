@@ -1,0 +1,13 @@
+{
+  "codeowners": [
+    "@schlomo"
+  ],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/schlomo/home-assistant-templated-web-kiosk-custom-component",
+  "domain": "templated_web_kiosk",
+  "iot_class": "service",
+  "name": "Templated Web Kiosk",
+  "requirements": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,12 @@
+[project]
+name = "home-assistant-templated-web-kiosk-custom-component"
+version = "1.0.0"
+description = "Exposing templated files via Home Assistant to create a custom web kiosk"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "homeassistant>=2026.2.2",
+    "pytest>=9.0.0",
+    "pytest-cov>=7.0.0",
+    "pytest-homeassistant-custom-component>=0.13.315",
+]
