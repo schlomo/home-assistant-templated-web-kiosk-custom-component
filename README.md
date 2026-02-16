@@ -2,7 +2,7 @@
 
 ## Installation via HACS
 
-For [HACS](https://www.hacs.xyz/) simply add this repo as source and install the component. Then follow the manual installation steps to add the configuration.
+For [HACS](https://www.hacs.xyz/) simply add this repo as custom repository of type `integration` and install the component. Then follow the manual installation steps to add the configuration.
 
 ## Manual Installation
 
